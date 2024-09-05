@@ -107,3 +107,4 @@ obj-$(CONFIG_NET_VENDOR_SYNOPSYS) += synopsys/
 obj-$(CONFIG_NET_VENDOR_PENSANDO) += pensando/
 obj-$(CONFIG_NET_VENDOR_GRT) += guangruntong/
 obj-$(CONFIG_NET_VENDOR_BZWX) += bzwx/
+obj-$(CONFIG_NET_VENDOR_LINKDATA) += linkdata/
